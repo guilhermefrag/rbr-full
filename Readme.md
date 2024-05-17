@@ -1,0 +1,1 @@
+Open each project into separated terminals, then read the Readme.md to run back and front end
